@@ -1,0 +1,28 @@
+.siyah{
+    background-color: black
+}
+td{
+    text-align: center;
+    height: 100;
+    width: 100;
+}
+.harfler{
+    vertical-align: bottom;
+}
+.umt{
+    text-align: right;
+    vertical-align: middle;
+}
+.beyaz{
+    background-color:mistyrose;
+}
+
+.animate__animated{
+    font-family: 'TimesNewRoman', fantasy;
+}
+
+body{
+    background-color: orange;
+    border: 500px;
+    
+}
